@@ -1,4 +1,4 @@
-#Cardiac Physiological System Analysis
+##Cardiac Physiological System Analysis
 
 This repository contains an analysis of cardiac physiological systems using simulation software. The analysis focuses on various aspects of normal cardiac functioning and the effects of aortic valve stenosis. The simulation software provides visual representations of left ventricular pressure, left atrial pressure, aortic pressure, left ventricular volume, blood flow velocities in the aortic and mitral valves, and pressure-volume relations of the left ventricle.
 
