@@ -1,3 +1,5 @@
+# Properties of the Hodgkin-Huxley equations
+
 This aims to investigate some of the properties of the celebrated Hodgkin-Huxley 
 equations. Experimentally in a space-clamped axon of finite length the regenerative electrical activity 
 in response to some supra-threshold stimulus is called a membrane action potential as the whole 
