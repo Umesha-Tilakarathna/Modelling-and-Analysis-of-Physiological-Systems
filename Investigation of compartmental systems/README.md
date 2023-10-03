@@ -32,15 +32,6 @@ The assignments focus on the use of MATLAB and Simulink for investigating compar
    - Collaborate with the Anatomy and Physiology lecturer to understand the functionality of glucagon.
    - Propose and validate a compartmental model that incorporates the effects of glucagon on glucose and insulin levels.
 
-## How to Use
-
-- Each part of the assignment is organized in its respective directory.
-- MATLAB scripts and Simulink models are provided for simulation.
-- Submit your assignment on Moodle as a single compressed file including results/explanations and MATLAB files.
-
-## Credits
-
-- Assignments developed for the BM2101 module - Analysis of Physiological Systems.
 
 ## References
 
@@ -49,5 +40,5 @@ The assignments focus on the use of MATLAB and Simulink for investigating compar
 3. Enderle, J. D. and Bronzino, J. D., Introduction to biomedical engineering, 3rd Edition, 2012.
 4. Benno M. Nigg (Editor), Walter Herzog (Editor Emeritus), Biomechanics of the Musculo-skeletal System, 3rd Edition, 2007.
 
-Feel free to explore, simulate, and contribute to the understanding of physiological systems through this repository!
+
 
