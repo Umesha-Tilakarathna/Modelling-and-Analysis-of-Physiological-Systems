@@ -33,12 +33,6 @@ The assignments focus on the use of MATLAB and Simulink for investigating compar
    - Propose and validate a compartmental model that incorporates the effects of glucagon on glucose and insulin levels.
 
 
-## References
-
-1. Bolie, J Appl Physiol, 16:783.
-2. Michael C. K. Khoo, Physiological control systems: analysis, simulation, and estimation, IEEE Press, 2000.
-3. Enderle, J. D. and Bronzino, J. D., Introduction to biomedical engineering, 3rd Edition, 2012.
-4. Benno M. Nigg (Editor), Walter Herzog (Editor Emeritus), Biomechanics of the Musculo-skeletal System, 3rd Edition, 2007.
 
 
 
