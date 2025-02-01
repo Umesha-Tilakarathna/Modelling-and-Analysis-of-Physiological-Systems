@@ -1,5 +1,5 @@
 # Properties of the Hodgkin-Huxley Equations
-![Hodgkin-Huxley](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/ab240633-f1b4-4a16-86f7-1f91a56bd79b)
+![Hodgkin-Huxley](https://github.com/Umesha-Tilakarathna/Modelling-and-Analysis-of-Physiological-Systems/blob/main/Images/Hodgkin-Huxley.png)
 
 
 Welcome to the simulation focused on exploring the properties of the renowned Hodgkin-Huxley equations. This simulation delves into key aspects of the Hodgkin-Huxley equations, investigating their behavior and characteristics. Specifically, we will explore the following four features that are observed physiologically:
@@ -14,7 +14,7 @@ Welcome to the simulation focused on exploring the properties of the renowned Ho
 The Hodgkin-Huxley equations provide a fundamental understanding of how neurons generate and propagate action potentials. This simulation will enable us to observe and analyze these properties, shedding light on how neurons respond to electrical stimulation.
 
 ## Simulation Setup
-![MATLAB-logo](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/56d79faf-66bf-40d4-a86b-2e2f6697f9d4)
+![MATLAB-logo](https://github.com/Umesha-Tilakarathna/Modelling-and-Analysis-of-Physiological-Systems/blob/main/Images/MATLAB-logo.png)
 
 
 - **MATLAB:** The simulation and analysis are conducted using MATLAB.
