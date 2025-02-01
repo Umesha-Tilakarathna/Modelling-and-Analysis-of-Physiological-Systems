@@ -1,12 +1,12 @@
 # Investigating Compartmental Systems Using MATLAB
 
 Welcome to the simulation focused on exploring the properties of compartmental systems using MATLAB. In this simulation, we will delve into the dynamics of compartmental models through the numerical integration of differential equations. We will investigate how different inputs and parameters affect the behavior of these models.
-![Compartmental modelling](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/51a70f4f-fbce-4533-905f-28fbed6729f2)
+![Compartmental modelling](https://github.com/Umesha-Tilakarathna/Modelling-and-Analysis-of-Physiological-Systems/blob/main/Images/Compartmental%20modelling.jpg)
 
 ## Introduction
 
 Compartmental models provide a powerful approach to understanding complex physiological systems. This simulation focuses on analyzing two distinct types of compartmental models: glucose/insulin metabolism and iodine metabolism. By using MATLAB, we will simulate and study the responses of these models to various inputs and conditions.
-![MATLAB-logo](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/f5299af7-41fc-4045-bbaf-02b3c3893872)
+![MATLAB-logo](https://github.com/Umesha-Tilakarathna/Modelling-and-Analysis-of-Physiological-Systems/blob/main/Images/MATLAB-logo.png)
 
 ## Part 1: Glucose/Insulin Model
 
