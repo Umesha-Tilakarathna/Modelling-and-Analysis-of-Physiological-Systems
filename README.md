@@ -1,7 +1,7 @@
 # Modelling and Analysis of Physiological Systems
 
 Welcome to the Physiological System Modeling repository! This repository contains various projects and simulations related to the modeling and analysis of physiological systems. Each project explores different aspects of the human body's intricate mechanisms using MATLAB, Simulink, and CricAdapt. Below, you will find an overview of each project along with usage instructions.
-![MATLAB-logo](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/bd06a38b-33aa-4a62-9444-d96faef3a622)
+![MATLAB-logo]( https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/bd06a38b-33aa-4a62-9444-d96faef3a622](https://github.com/Umesha-Tilakarathna/Modelling-and-Analysis-of-Physiological-Systems/blob/main/Images/MATLAB-logo.png )
 ![CricAdapt](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/2f947026-0eaf-4767-a0a0-4f56967cb0af)
 
 
