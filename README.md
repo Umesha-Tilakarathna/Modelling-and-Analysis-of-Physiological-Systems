@@ -1,3 +1,41 @@
-# Modelling-and-Analysis-of-Physiological-Systems
+# Modelling and Analysis of Physiological Systems
 
-Through this module, we were able to delve into the intricate intersection of engineering principles and biological systems. Through this we were able to develop a comprehensive understanding of physiological models and computational techniques. The aim was to interpret biological systems through an engineering lens, equipping students with the ability to construct computational models for in-depth analysis. The curriculum covered fundamental principles of mathematical modelling, biomechanics of musculoskeletal systems, respiratory system modelling, circulatory system models, electrophysiology of biological conductors, and compartmental modelling. Each segment targets specific learning outcomes, fostering skills to analyze and address physiological limitations within diverse biological systems. 
+Welcome to the Physiological System Modeling repository! This repository contains various projects and simulations related to the modeling and analysis of physiological systems. Each project explores different aspects of the human body's intricate mechanisms using MATLAB, Simulink, and CricAdapt. Below, you will find an overview of each project along with usage instructions.
+![MATLAB-logo](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/bd06a38b-33aa-4a62-9444-d96faef3a622)
+![CricAdapt](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/2f947026-0eaf-4767-a0a0-4f56967cb0af)
+
+
+## Projects
+
+### 1. Analysis of Cardiac Physiology
+![Wiggers-diagram](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/a58a189f-01d1-4e24-aa1b-c304df92c560)
+
+Explore the intricacies of the heart's behavior using simulation software. Analyze normal sinus rhythm, blood flow velocities, pressure-volume relations, and more. Investigate the opening and closing of valves, diastolic filling phases, and flow patterns. Utilize simulation data to understand the physiological processes during the cardiac cycle.
+
+### 2. Branched Cylinders: Dendritic Tree Approximation
+![Branced cylinders](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/070e0352-f981-475b-a9bf-d38abe874ffd)
+
+Investigate the electrical properties of single-branched cables, focusing on dendritic tree approximations. Explore the behavior of axonal and dendritic trees using MATLAB simulations. Understand the principles of these branched systems and their implications for physiological signaling.
+
+### 3. Hodgkin-Huxley Equation
+![Hodgkin-Huxley](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/e3732cc6-2d7c-46bc-b63b-2db50e5bcf30)
+
+Dive into the Hodgkin-Huxley equations to study the properties of action potentials in nerve cells. Analyze threshold behavior, refractoriness, repetitive activity, and temperature dependence of these equations. Use MATLAB to simulate and visualize the behavior of action potentials under different conditions.
+
+### 4. Investigating Compartmental Systems
+![Compartmental modelling](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/d6d1dd8a-44dc-4eba-afe8-ea6cd2b83eb1)
+
+Study compartmental systems using first-order differential equations. Explore glucose/insulin and iodine metabolism models. Investigate responses to various inputs, thyroid diseases, and temperature dependence. Use both MATLAB and Simulink to simulate and analyze these complex systems.
+
+### 5. Simulation of Respiratory Mechanism
+![respitory](https://github.com/RavinduMPK/Modelling-and-Analysis-of-Physiological-Systems/assets/68577937/6fef8b54-ac52-4b00-b9f5-96c2ef0c19cd)
+
+Simulate respiratory mechanics using a MATLAB-based simulation software. Understand the effects of normal, restrictive, and obstructive pulmonary diseases on respiratory dynamics. Visualize changes in minute ventilation and investigate the impact of different conditions on the respiratory system.
+
+## Usage
+
+1. Clone the repository to your local machine.
+2. Navigate to the respective project directory you're interested in.
+3. Follow the instructions provided in each project's README for detailed usage and execution of simulations.
+4. Explore MATLAB scripts, Simulink models, and associated documentation to understand the physiological concepts and simulation techniques.
+
